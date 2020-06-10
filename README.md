@@ -2,7 +2,7 @@ Twitter Streaming
 ===============
 Introduction
 ----
-Twitter using Python, then processes the tweets using Apache Spark Streaming to identify hashtags and, finally, returns top trending hashtags and represents this data on sql.
+ Building a simple application that reads online streams from Twitter using Python, then processes the tweets using Apache Spark Streaming to identify hashtags and, finally, returns top trending hashtags and represents this data on sql.
 ### Project Doc
 Project documentation link : https://docs.google.com/document/d/1CRdT2c6T7vi3CQjZu0Cd8J3JArlvx0YuNXS6mlwJjJg/edit
 
